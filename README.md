@@ -17,5 +17,4 @@ A full-stack healthcare appointment scheduling system with role-based access for
 - **Features:** Role-based auth, real-time slot booking, appointment status tracking
 
 ---
-[![](https://komarev.com/ghpvc/?username=paaraskokate&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
