@@ -1,14 +1,5 @@
-💫 About Me:
-
-👋 Hey there! I'm Paaras.
-
-🎓 Final-year B.Tech Computer Engineering student passionate about building scalable, efficient, and user-focused software solutions.
-
-💻 Experienced in developing full-stack applications, mobile applications, and database-driven systems.
-
-🚀 Focused on building reliable, high-performance applications with an emphasis on usability and clean design.
-
-🌱 Strong foundation in software engineering, problem-solving, and application design, with a keen interest in exploring emerging technologies and delivering impactful solutions.
+# 💫 About Me:
+👋 Hey there! I'm Paaras.<br><br>🎓 Final-year B.Tech Computer Engineering student passionate about building scalable, efficient, and user-focused software solutions.<br>💻 Experienced in developing full-stack applications, mobile applications, and database-driven systems.<br>🚀 Focused on building reliable, high-performance applications with an emphasis on usability and clean design.<br>🌱 Strong foundation in software engineering, problem-solving, and application design, with a keen interest in exploring emerging technologies and delivering impactful solutions.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/paaras_1903_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paaras-kokate) 
 # 💻 Tech Stack:
